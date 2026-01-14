@@ -17,3 +17,6 @@ This project is a React-based application built for a technical test.
 ```bash
 npm install
 npm run dev
+
+## Output Example
+JSON output will be generated and displayed when clicking the "Simpan" button.
